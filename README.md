@@ -16,7 +16,7 @@
 - 📄 📁 ☁ [2084团队云盘(公有云)](https://file.2084team.com) 
   - 📂 🔐 📰 [2084团队存储系统(内网)](https://minio.2084team.com) 
 - 💬 💭 🗨 [2084团队聊天服务器(公有云)](https://chat.2084team.com) 
-
+- 🌐 🤓 ⛰️ [2084深度学习平台(混合云负载均衡)](https://d2l.2084team.com)
 - 待续 。。。
 
 
@@ -36,6 +36,7 @@
 - 📄 📁 ☁ [2084team CloudDisk(Public Cloud)](https://file.2084team.com) 
   - 📂 🔐 📰 [2084team Storage(Intranet)](https://minio.2084team.com) 
 - 💬 💭 🗨 [2084team IM Server(Public Cloud)](https://chat.2084team.com)
+- 🌐 🤓 ⛰️ [2084DeepLearning Platform(Hybrid Cloud LoadBalancer)](https://d2l.2084team.com)
 - Coming ......
 
 2084TEAM<sup>TM</sup> 2022 CopyRight. <a href="https://beian.miit.gov.cn">黑ICP备2022002448号</a>
