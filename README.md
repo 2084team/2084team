@@ -39,5 +39,9 @@
 - 🌐 🤓 ⛰️ [2084DeepLearning Platform(Hybrid Cloud LoadBalancer)](https://d2l.2084team.com)
 - Coming ......
 
+> Funny
+- 💻️ 🧭 🎯 [Win11 in Web](https://win11.2084team.com)
+- 🌐 👋 🚀 [Http Tool in Web](https://http-tool.2084team.com)
+
 2084TEAM<sup>TM</sup> 2022 CopyRight. <a href="https://beian.miit.gov.cn">黑ICP备2022002448号</a>
 
